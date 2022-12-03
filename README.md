@@ -5,7 +5,7 @@
 <a href="2022/02_Rock_Paper_Scissors/2.ts">
   <img src="../assets/Media/2022/02.png" width="161px">
 </a>
-<a href="https://adventofcode.com/2022">
+<a href="2022/03_Rucksack_Reorganization/2.ts">
   <img src="../assets/Media/2022/03.png" width="161px">
 </a>
 <a href="https://adventofcode.com/2022">
