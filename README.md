@@ -14,7 +14,7 @@
 <a href="2022/05_Supply_Stacks/2.ts">
   <img src="../assets/Media/2022/05.png" width="161px">
 </a>
-<a href="https://adventofcode.com/2022">
+<a href="2022/06_Tuning_Trouble/2.ts">
   <img src="../assets/Media/2022/06.png" width="161px">
 </a>
 <a href="https://adventofcode.com/2022">
