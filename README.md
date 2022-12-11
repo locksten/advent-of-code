@@ -29,7 +29,7 @@
 <a href="2022/10_Cathode-Ray_Tube/2.ts">
   <img src="../assets/Media/2022/10.png" width="161px">
 </a>
-<a href="https://adventofcode.com/2022">
+<a href="2022/11_Monkey_in_the_Middle/2.ts">
   <img src="../assets/Media/2022/11.png" width="161px">
 </a>
 <a href="https://adventofcode.com/2022">
