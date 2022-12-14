@@ -38,7 +38,7 @@
 <a href="2022/13_Distress_Signal/2.ts">
   <img src="../assets/Media/2022/13.png" width="161px">
 </a>
-<a href="https://adventofcode.com/2022">
+<a href="2022/14_Regolith_Reservoir/2.ts">
   <img src="../assets/Media/2022/14.png" width="161px">
 </a>
 <a href="https://adventofcode.com/2022">
