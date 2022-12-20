@@ -56,7 +56,7 @@
 <a href="2022/19_Not_Enough_Minerals/2.ts">
   <img src="../assets/Media/2022/19.png" width="161px">
 </a>
-<a href="https://adventofcode.com/2022">
+<a href="2022/20_Grove_Positioning_System/2.ts">
   <img src="../assets/Media/2022/20.png" width="161px">
 </a>
 <a href="https://adventofcode.com/2022">
